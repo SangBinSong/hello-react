@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+import logo from './brick.svg';
 import './App.css';
 
 function App() {
@@ -6,17 +6,20 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p>
+        {/* <p>
           Edit <code>src/App.js</code> and save to reload.
+        </p> */}
+        <p>
+          페이지 공사중
         </p>
-        <a
+        {/* <a
           className="App-link"
-          href="https://reactjs.org"
+          href="www.google.com"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
-        </a>
+          구글로 이동
+        </a> */}
       </header>
     </div>
   );
